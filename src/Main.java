@@ -5,8 +5,8 @@ public class Main {
         Book goneWithTheWind = new Book(1939, "Mitchell");
 
 
-        kgbt.setYear();
-        int kgbtYear = kgbt.getYear();
+        //kgbt.setYear(2010);
+        int kgbtYear = kgbt.getYear(2010);
         System.out.println(kgbtYear);
     }
 

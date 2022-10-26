@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04e2640a-dafb-49ef-9723-75511496b530" name="Changes" comment="The HW is finished" />
+    <list default="true" id="04e2640a-dafb-49ef-9723-75511496b530" name="Changes" comment="The HW is fixed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +42,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666796916609</updated>
-      <workItem from="1666796917781" duration="1089000" />
+      <workItem from="1666796917781" duration="1536000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1666797004625</created>
@@ -72,7 +72,35 @@
       <option name="project" value="LOCAL" />
       <updated>1666797995965</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="The HW is finished">
+      <created>1666798091506</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666798091506</updated>
+    </task>
+    <task id="LOCAL-00006" summary="The HW is finished">
+      <created>1666798257383</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666798257383</updated>
+    </task>
+    <task id="LOCAL-00007" summary="The HW is fixed">
+      <created>1666798278121</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666798278121</updated>
+    </task>
+    <task id="LOCAL-00008" summary="The HW is fixed">
+      <created>1666798459161</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666798459161</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +120,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="The HW is finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="The HW is finished" />
+    <MESSAGE value="The HW is fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="The HW is fixed" />
   </component>
 </project>

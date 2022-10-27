@@ -1,13 +1,13 @@
 
 public class Main {
     public static void main(String[] args) {
-        Book kgbt = new Book(2022, "Pelevin");
-        Book goneWithTheWind = new Book(1939, "Mitchell");
+        Book kgbt = new Book("KGBT", "Pelevin", 2022);
+        Book goneWithTheWind = new Book("Gone With the Wind","Mitchell", 1939);
 
-
-        //kgbt.setYear(2010);
         int kgbtYear = kgbt.getYear(2010);
-        System.out.println(kgbtYear);
+
+        System.out.println(kgbt.getTitle() + " "+ kgbt.getAuthor() + " " + kgbt.getYear(2010) );
+
     }
 
 }

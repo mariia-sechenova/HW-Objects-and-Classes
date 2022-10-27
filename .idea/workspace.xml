@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04e2640a-dafb-49ef-9723-75511496b530" name="Changes" comment="" />
+    <list default="true" id="04e2640a-dafb-49ef-9723-75511496b530" name="Changes" comment="The HW is fixed">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Gg4VFNRKqEp1ZNCq5Cw5fpirPc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,7 +34,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -31,8 +46,83 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666796916609</updated>
+      <workItem from="1666796917781" duration="7783000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1666797004625</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666797004625</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial Commit">
+      <created>1666797011841</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666797011841</updated>
+    </task>
+    <task id="LOCAL-00003" summary="The HW is finished">
+      <created>1666797255522</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666797255522</updated>
+    </task>
+    <task id="LOCAL-00004" summary="The HW is finished">
+      <created>1666797995965</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666797995965</updated>
+    </task>
+    <task id="LOCAL-00005" summary="The HW is finished">
+      <created>1666798091506</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666798091506</updated>
+    </task>
+    <task id="LOCAL-00006" summary="The HW is finished">
+      <created>1666798257383</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666798257383</updated>
+    </task>
+    <task id="LOCAL-00007" summary="The HW is fixed">
+      <created>1666798278121</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666798278121</updated>
+    </task>
+    <task id="LOCAL-00008" summary="The HW is fixed">
+      <created>1666798459161</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666798459161</updated>
+    </task>
+    <task id="LOCAL-00009" summary="The HW is fixed">
+      <created>1666798598392</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1666798598392</updated>
+    </task>
+    <task id="LOCAL-00010" summary="The HW is fixed">
+      <created>1666798797494</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1666798797494</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -44,5 +134,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <MESSAGE value="The HW is finished" />
+    <MESSAGE value="The HW is fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="The HW is fixed" />
   </component>
 </project>

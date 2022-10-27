@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04e2640a-dafb-49ef-9723-75511496b530" name="Changes" comment="The HW is fixed">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="04e2640a-dafb-49ef-9723-75511496b530" name="Changes" comment="The HW is fixed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +42,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666796916609</updated>
-      <workItem from="1666796917781" duration="7783000" />
+      <workItem from="1666796917781" duration="1536000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1666797004625</created>
@@ -104,21 +100,7 @@
       <option name="project" value="LOCAL" />
       <updated>1666798459161</updated>
     </task>
-    <task id="LOCAL-00009" summary="The HW is fixed">
-      <created>1666798598392</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1666798598392</updated>
-    </task>
-    <task id="LOCAL-00010" summary="The HW is fixed">
-      <created>1666798797494</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1666798797494</updated>
-    </task>
-    <option name="localTasksCounter" value="11" />
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
